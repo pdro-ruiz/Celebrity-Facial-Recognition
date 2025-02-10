@@ -3,7 +3,7 @@
 Este proyecto implementa un sistema de reconocimiento facial para identificar celebridades en imágenes y videos. Su objetivo es demostrar el potencial del reconocimiento facial, incluso con un conjunto de datos limitado y recursos computacionales accesibles.
 
 <p align="center">
-  <img src="./CelebrityFacialRecognition.jpg" alt="CelebrityFacialRecognition">
+  <img src="./CelebrityFacialRecognition.jpeg" alt="CelebrityFacialRecognition">
 </p>  
 
 ## Características
